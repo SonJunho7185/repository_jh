@@ -1,6 +1,0 @@
-Hello! My name is SJH.
-KIT(Kumoh National Institute of Technology)
-
-Computer Sciences
-C programming
-Object_oriented programming
